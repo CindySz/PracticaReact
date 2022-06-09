@@ -7,7 +7,7 @@ function App() {
 
   
   return (
-    <div style={{backgroundColor:"DarkMagenta", height:"9px"}}>
+    <div style={{backgroundColor:"DarkMagenta", height:"980px"}}>
 
     
 
